@@ -1,4 +1,4 @@
-#!E:\Kafka_StockMarket_DataEnginnering_Project\KafkaProject-VENV\Scripts\python.exe
+#!E:\Kafka_StockMarket_DataStreaming_Project\kafkastockmarket_venv\Scripts\python.exe
 
 import sys
 import json
